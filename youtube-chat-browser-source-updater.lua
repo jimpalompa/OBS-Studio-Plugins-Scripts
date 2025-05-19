@@ -79,7 +79,7 @@ end
 function script_defaults(settings)
   obs.obs_data_set_default_string(settings, "channel_url", "https://www.youtube.com/@Example_Handle/streams")
   obs.obs_data_set_default_int(settings, "delay_seconds", 30)
-  obs.obs_data_set_default_string(settings, "source_name_1", "Example source name")
+  obs.obs_data_set_default_string(settings, "source_name_1", "Browser source name")
 end
 
 function script_update(settings)
