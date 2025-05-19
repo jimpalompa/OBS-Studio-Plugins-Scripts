@@ -7,5 +7,5 @@ A script that automatically updates browser source URL's when you start a live s
 Download:
 [youtube-live-chat-url-updater.lua](https://raw.githubusercontent.com/jimpalompa/OBS-Studio-Plugins-Scripts/refs/heads/main/youtube-live-chat-url-updater.lua)
 
-Source:
+Credit to original source:
 [github.com/yuki-natsuno-vt/ObsYoutubeLiveStreamChatUrlUpdater](https://github.com/yuki-natsuno-vt/ObsYoutubeLiveStreamChatUrlUpdater)
