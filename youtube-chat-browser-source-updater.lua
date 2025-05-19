@@ -1,7 +1,7 @@
 obs = obslua
 
 j_channel_url = ""
-j_delay_seconds = 30
+j_delay_seconds = 0
 j_source_name_1 = ""
 j_source_name_2 = ""
 j_source_name_3 = ""
